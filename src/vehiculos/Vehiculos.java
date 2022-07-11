@@ -14,6 +14,7 @@ public class Vehiculos {
 //        }
         Automotor a1 = new Automotor("BMW", "2002");
         Automotor a2 = new Automotor("Honda", "2022");
+        Automotor a3 = new Automotor("AKT","2020");
         
         
         Motos m1 = new Motos(a2, true);
